@@ -16,7 +16,7 @@ params:
     address:
       - city: London
         country: England
-        street:NA 
+        street: NA 
         title: NA
     buttonClear: Clear
     buttonSend: Send message
