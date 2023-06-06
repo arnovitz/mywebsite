@@ -82,8 +82,8 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: not really
-        title: Absolute Legend
+        subtitle: London Business School
+        title: MBA 2024 Student
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
